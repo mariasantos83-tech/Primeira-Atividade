@@ -6,7 +6,6 @@ function analisarProdutos(produtos, termoPesquisa = "") {
     let maisCaro = produtos[0];
     let maisBarato = produtos[0];
     let somaPrecos = 0;
-
     for (let i = 0; i < produtos.length; i++) {
         const prod = produtos[i];
         somaPrecos += prod.preco;
