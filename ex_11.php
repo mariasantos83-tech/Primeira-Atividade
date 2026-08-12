@@ -23,4 +23,3 @@ console.log(formatarTexto("olá mundo, padronizando relatórios"));
   primeiraMaiuscula: 'Olá Mundo, Padronizando Relatórios',
   totalCaracteres: 34
 }
-*/
